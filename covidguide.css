@@ -1,0 +1,137 @@
+body {
+    font-family: dx rigraf extra expandedArial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+
+.home {
+    background: rgb(73, 1, 45);
+    height: 1000px;
+
+
+}
+
+.navbar {
+    margin-bottom: 80px;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+span a {
+    color: #fff;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.line-1 {
+    padding-left: 50px;
+    color: rgb(228, 167, 204);
+    font-size: 50px;
+    font-style: dx rigraf extra expanded;
+    font-weight: bold;
+}
+
+.line-2 {
+    margin-top: 40px;
+    padding-left: 50px;
+    color: #fff;
+    font-size: 120px;
+    font-weight: bold;
+    font-style: dx rigraf extra expanded;
+}
+
+.image-1 {
+    float: right;
+    margin-top: -270px;
+}
+
+.headings {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(73, 1, 45);
+}
+
+.tips {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid pink;
+    border-radius: 6px;
+    padding: 0px 20px;
+    margin: 50px 60px;
+}
+
+.tips p {
+    font-size: 60px;
+    padding-right: 120px;
+}
+
+.table-bg {
+    background: rgb(228, 167, 204);
+    padding-bottom: 86px;
+    padding-top: 44px;
+}
+
+.table-div {
+    display: flex;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 8px solid rgb(104, 4, 65);
+    background: #fff;
+    border-collapse: collapse;
+    padding: 22px 78px;
+    font-size: 30px;
+}
+
+.faqs-main {
+    border: 1px solid pink;
+    border-radius: 6px;
+    margin: 50px 60px;
+    padding: 30px;
+}
+
+.faqs {
+    border: 1px solid pink;
+    border-radius: 6px;
+    padding: 30px;
+    margin: 30px 40px;
+}
+
+.faqs h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.faqs p {
+    font-size: 18px;
+
+}
+
+.youtube {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background: rgb(104, 4, 65);
+    height: 200px;
+}
+
+.footer p {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 160px;
+}
+
+.sym-heading {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(73, 1, 45);
+    margin: 0%;
+    margin-bottom: 34px;
+}
